@@ -1,6 +1,6 @@
 ﻿//программа заполняет массив через генератор случайных чисел и ищет позицию
-// числа 4
-void FillArray(int[] collection) 
+//числа 4. При отсутствии числа 4 выдает значение "-1"
+void FillArray(int[] collection)
 {
 	int lenght = collection.Length;
 	int index = 0;
