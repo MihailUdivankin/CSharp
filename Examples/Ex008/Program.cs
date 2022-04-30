@@ -1,4 +1,6 @@
-﻿void FillArray(int[] collection)
+﻿//программа заполняет массив через генератор случайных чисел и ищет позицию
+// числа 4
+void FillArray(int[] collection) 
 {
 	int lenght = collection.Length;
 	int index = 0;
@@ -21,8 +23,30 @@ void PrintArray(int[] col)
 	}
 }
 
+int IndexOf(int[] collection, int find)
+{
+	int count = collection.Length;
+	int index = 0;
+	int position = -1; // если программа возвратит "-1" значит этого числа нет в массиве
+	while (index < count)
+	{
+		if(collection[index] == find)
+		{
+			position = index;
+            break;
+		}	
+		index++;
+	}
+	return position;
+}
+
+
 // void метод в C# который ничего не возвращает
 int[] array = new int[10];
 
 FillArray(array);
 PrintArray(array);
+Console.WriteLine();
+
+int pos = IndexOf(array, 4);
+Console.WriteLine(pos);
