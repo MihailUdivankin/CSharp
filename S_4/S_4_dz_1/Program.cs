@@ -3,7 +3,7 @@
 // 3, 5 -> 243 (3⁵)
 // 2, 4 -> 16
 
-int Exponentiation(int a, int b)  // ++++
+int Exponentiation(int a, int b)
 {
     int all =a;
     for(int i=1; i<b; i++)
