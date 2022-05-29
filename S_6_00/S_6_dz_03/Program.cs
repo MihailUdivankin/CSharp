@@ -11,8 +11,19 @@ void CoordinatesIntersectionPoint(double b1, double k1, double b2, double k2)
     y = k1 * x + b1;
     Console.WriteLine($"Координаты точки пересечения: X = {x}, Y = {y}");
 }
-double b1 = 2; double k1 = 5;
-double b2 = 4; double k2 = 9;
+
+Console.WriteLine("введите переменную b1");
+int b1 = int.Parse(Console.ReadLine());
+
+Console.WriteLine("введите переменную k1");
+int k1 = int.Parse(Console.ReadLine());
+
+Console.WriteLine("введите переменную b2");
+int b2 = int.Parse(Console.ReadLine());
+
+Console.WriteLine("введите переменную k2");
+int k2 = int.Parse(Console.ReadLine());
+
 Console.WriteLine();
 CoordinatesIntersectionPoint(b1,k1,b2,k2);
 Console.WriteLine();
