@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\repos\Itogi\bin\Debug\net6.0\Itogi.exe
+C:\Users\User\Desktop\repos\Itogi\bin\Debug\net6.0\Itogi.deps.json
+C:\Users\User\Desktop\repos\Itogi\bin\Debug\net6.0\Itogi.runtimeconfig.json
+C:\Users\User\Desktop\repos\Itogi\bin\Debug\net6.0\Itogi.dll
+C:\Users\User\Desktop\repos\Itogi\bin\Debug\net6.0\Itogi.pdb
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\Itogi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\Itogi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\Itogi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\Itogi.AssemblyInfo.cs
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\Itogi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\Itogi.dll
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\refint\Itogi.dll
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\Itogi.pdb
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\Itogi.genruntimeconfig.cache
+C:\Users\User\Desktop\repos\Itogi\obj\Debug\net6.0\ref\Itogi.dll
